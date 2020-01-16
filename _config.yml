@@ -28,7 +28,7 @@ twitter_username: # ignore
 github_username:  webbling
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
